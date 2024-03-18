@@ -4,7 +4,7 @@ I’m Jenna Cohen, a digital designer experienced in using everything from video
 
 Below are some pieces that demonstrate my passion for this work and the skills I have.
 
-<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
+<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.jpeg" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
 
 ### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
 
