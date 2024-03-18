@@ -8,7 +8,7 @@ Below are some pieces that demonstrate my passion for this work and the skills I
 
 ### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
 
-As a feature piece of the [Printing Hate](https://lynching.cnsmaryland.org/) project, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to create this visual experience.
+As an enterprise piece of the [Printing Hate](https://lynching.cnsmaryland.org/) investigation, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to create this visual experience.
 
 **My role:**
 
