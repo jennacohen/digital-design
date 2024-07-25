@@ -1,8 +1,8 @@
 # Jenna Cohen - Digital Design Work Samples
 
-I’m Jenna Cohen, a digital designer experienced in using everything from video and animation to photography and typography to produce content that is engaging, digestible and accurate.
+I’m Jenna Cohen, a visual journalist and storyteller experienced in using everything from graphics and animation to web design and illustration to produce content that is engaging, digestible and accurate.
 
-Below are some pieces that demonstrate my passion for this work and the skills I have.
+Below are work samples that demonstrate my passion for this work and the skills I have. For my full portfolio of published work, visit [jenna-cohen.com](https://jenna-cohen.com)
 
 <a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.jpeg" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
 
