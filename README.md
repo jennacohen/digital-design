@@ -4,20 +4,6 @@ I’m Jenna Cohen, a visual journalist and storyteller experienced in using a va
 
 Below are work samples that demonstrate my passion for this work and the skills I have. For my full portfolio of published work, visit [jenna-cohen.com](https://jenna-cohen.com)
 
-<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.jpeg" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
-
-### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
-
-As an enterprise piece of the [Printing Hate](https://lynching.cnsmaryland.org/) investigation, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to create this visual experience.
-
-**My role:**
-
-- Animation and video editing: After Effects, Premiere
-- Mapping and data visualization: Carto, Datawrapper, Illustrator, Photoshop
-- Illustration and design: Illustrator, Procreate
-- Script development
-- Project management
-
 <a href="https://www.pbs.org/newshour/features/smart-shopping-quiz/"><kbd><img src="images/smart-shop.jpg" alt="smart shopping thumbnail" width="250px"></kbd></a>
 
 ### [Quiz: Are You A Smart Shopper?](https://www.pbs.org/newshour/features/smart-shopping-quiz/)
@@ -33,6 +19,20 @@ As food prices have risen due to factors such as inflation, I worked with member
 - Layout
 - Typography
 - Color Theory
+
+<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.jpeg" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
+
+### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
+
+As an enterprise piece of the [Printing Hate](https://lynching.cnsmaryland.org/) investigation, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to create this visual experience.
+
+**My role:**
+
+- Animation and video editing: After Effects, Premiere
+- Mapping and data visualization: Carto, Datawrapper, Illustrator, Photoshop
+- Illustration and design: Illustrator, Procreate
+- Script development
+- Project management
 
 ### [Breaking News Graphics](https://github.com/jennacohen/newshour/tree/main/design_graphics)
 
